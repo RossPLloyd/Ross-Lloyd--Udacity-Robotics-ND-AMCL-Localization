@@ -1,0 +1,14 @@
+<package>
+  <description brief="udacity_bot">
+
+     udacity_bot
+
+  </description>
+  <author>Ross</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/udacity_bot</url>
+
+</package>
+
+
